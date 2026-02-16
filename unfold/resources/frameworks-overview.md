@@ -18,12 +18,6 @@ Quick reference for selecting and blending therapeutic frameworks in journaling 
 | **Attachment** | Relationship patterns, trust/closeness struggles | Push-pull, fear of abandonment, avoidance of intimacy | Identify pattern → connect to origin → practice secure response |
 | **Existential** | Meaning crisis, big life questions, groundlessness | "What's the point?", mortality, freedom, isolation | Sit with the question → clarify what matters → choose authentically |
 | **Schema** | Recurring life patterns, deep-rooted beliefs | "I always end up here", "This always happens to me" | Identify schema → trace origin → update the lens → Healthy Adult response |
-| **Narrative** | Problem-saturated identity, feeling defined by struggles | "I'm the kind of person who...", "This always happens to me" | Externalize problem → find exceptions → re-author the story |
-| **Self-Compassion/CFT** | Shame, self-criticism, perfectionism | "I'm so stupid", harsh self-talk, feeling unworthy | Self-kindness → common humanity → mindful awareness |
-| **SFBT** | Feeling stuck, problem-focused thinking | "Nothing works", "I don't know what to do", overwhelm | Miracle question → find exceptions → smallest next step |
-| **Attachment** | Relationship patterns, trust issues, closeness/distance struggles | "They'll leave", "I don't need anyone", push-pull dynamics | Identify pattern → trace origins → imagine secure response |
-| **Existential** | Meaning crisis, mortality awareness, freedom/responsibility | "What's the point?", big life transitions, authenticity questions | Face the given → accept freedom → create meaning → choose |
-| **Schema** | Recurring life patterns, deep core beliefs, childhood echoes | "I always end up in the same situation", "I'm fundamentally [X]" | Identify schema → understand origins → build Healthy Adult response |
 
 ## Blending Guidelines
 
@@ -47,8 +41,6 @@ Frameworks are not mutually exclusive. A natural session often touches several:
 - **Attachment → Schema**: Notice the relational pattern (Attachment), then trace it to the underlying schema (Schema)
 - **SFBT → MI**: Find exceptions and strengths (SFBT), then build motivation for change (MI)
 - **Existential → ACT**: Confront the ultimate concern (Existential), then clarify values and committed action (ACT)
-- **Narrative → Positive Psych**: Re-author the story (Narrative), then anchor it in strengths and meaning (Positive Psych)
-- **Self-Compassion → CBT**: Soften the self-criticism (CFT), then examine the underlying beliefs (CBT)
 
 **Blending principle:** Validate → Explore → Understand → Reframe/Act. Most frameworks
 fit somewhere in this arc. Use whatever tool fits the moment.
@@ -79,10 +71,4 @@ Be aware of when a framework might not fit:
 - **SFBT** can feel invalidating if introduced too early — don't solution-focus before the problem has been heard
 - **Attachment** exploration of childhood origins can be activating — don't dig into early wounds without checking readiness
 - **Existential** questions about mortality and meaning can be destabilizing during crisis — save for stable, reflective moments
-- **Schema** work connects to deep wounds and can be overwhelming — stay at the awareness level in journaling, don't attempt full reparenting
-- **Narrative** requires some distance from the problem — if someone is in acute crisis, stabilize first before attempting externalization
-- **Self-Compassion/CFT** can trigger resistance in people with strong "I don't deserve kindness" beliefs — go slow, use the backdoor (compassion for others first, then turn inward)
-- **SFBT** can feel dismissive if used before someone feels heard — don't jump to solutions when validation is needed
-- **Attachment** can surface intense childhood pain — be prepared to ground and contain, and suggest professional support for deeper work
-- **Existential** can intensify distress in someone already struggling with hopelessness — distinguish existential exploration (open, curious) from depressive hopelessness (closed, stuck). If the latter, stabilize first
-- **Schema** can be overwhelming when schemas activate strongly — the person may feel flooded by old pain. Use DBT to regulate, then return to schema work
+- **Schema** work connects to deep wounds and can be overwhelming — stay at the awareness level in journaling, don't attempt full reparenting. If schemas activate strongly, use DBT to regulate first
