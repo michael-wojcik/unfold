@@ -312,7 +312,11 @@ anxious, stuck, reflective, grieving, motivated, overwhelmed, curious, low-energ
 restless, self-critical, uncertain, disconnected, hopeful, tender.
 
 **How to choose:**
-- First sessions or unknown comfort level → prefer `light` prompts
+- First sessions or unknown comfort level → prefer `light` prompts. SFBT, Positive
+  Psychology, MI, and gentler CBT/DBT prompts work especially well as openers. Note
+  that Existential and Schema have no light prompts — save those for established rapport.
+- Quick check-ins (see §Mode Detection) → lean toward `light` prompts. Guided
+  reflections can draw from any depth matching the user's readiness.
 - User seems distressed or activated → match their mood (e.g., `overwhelmed` tags
   for someone feeling swamped, `anxious` for worry-driven states)
 - Established rapport and emotional readiness → `deep` prompts become available
@@ -349,7 +353,7 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 **ACT (Values and Willingness):**
 <!-- depth:medium | mood:reflective,uncertain -->
 - "What matters most to you right now — and are you living in line with that, or has something pulled you off course?"
-<!-- depth:medium | mood:anxious,overwhelmed -->
+<!-- depth:medium | mood:anxious,overwhelmed,restless -->
 - "Is there a feeling you've been trying really hard not to feel? What happens when you push it away?"
 <!-- depth:light | mood:stuck,motivated -->
 - "If fear and self-doubt weren't factors, what would you be doing differently right now?"
@@ -373,15 +377,15 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "Your mind is probably giving you reasons right now for why things can't change. What if you didn't have to argue with those reasons or believe them — just let them be there while you keep moving?"
 
 **DBT (Mindfulness and Emotional Awareness):**
-<!-- depth:light | mood:anxious,restless -->
+<!-- depth:light | mood:anxious -->
 - "Take a breath. What do you notice in your body right now — any tension, heaviness, restlessness?"
-<!-- depth:light | mood:reflective,curious -->
+<!-- depth:light | mood:reflective -->
 - "If your current emotional state were weather, what would the forecast be?"
 <!-- depth:light | mood:overwhelmed,anxious -->
 - "On a scale of 0-10, how emotionally activated do you feel right now? What's contributing to that number?"
-<!-- depth:medium | mood:overwhelmed,restless -->
+<!-- depth:medium | mood:overwhelmed,restless,anxious -->
 - "Is there a situation recently where your emotional reaction felt bigger than the situation warranted? What was that about?"
-<!-- depth:medium | mood:uncertain,curious -->
+<!-- depth:medium | mood:uncertain,curious,disconnected -->
 - "Is there an emotion you've been feeling that you can't quite name — something sitting in the background that you haven't put words to yet?"
 <!-- depth:deep | mood:restless,self-critical -->
 - "Think about a recent moment where you acted on impulse and wished you hadn't. If you could freeze time right before that moment, what were you feeling?"
@@ -391,7 +395,7 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "Is there a relationship where you've been holding back from saying what you actually need? What gets in the way of saying it?"
 <!-- depth:medium | mood:uncertain,reflective -->
 - "Two things can be true at once. What's a contradiction you're holding right now — something where both sides feel real even though they seem to clash?"
-<!-- depth:medium | mood:overwhelmed,anxious -->
+<!-- depth:medium | mood:overwhelmed -->
 - "When your emotions are at a 7 or 8 out of 10, what's your body doing? Where do you feel it first?"
 <!-- depth:medium | mood:self-critical,stuck -->
 - "Is there a situation where you keep apologizing even though, deep down, you don't think you did anything wrong? What's driving that?"
@@ -401,7 +405,7 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 **IFS (Parts Work):**
 <!-- depth:light | mood:self-critical,restless -->
 - "Is there a part of you that's been really loud lately — a critic, a worrier, a people-pleaser? What's it been saying?"
-<!-- depth:light | mood:stuck,uncertain -->
+<!-- depth:light | mood:stuck -->
 - "Do you notice any inner conflict right now — like part of you wants one thing and another part wants something else?"
 <!-- depth:medium | mood:self-critical,curious -->
 - "What's your inner critic's favorite line? If that voice were a character, what would it look like?"
@@ -413,7 +417,7 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "When you start to feel good or hopeful about something, does another part of you rush in to shut it down? What's it worried about?"
 <!-- depth:medium | mood:overwhelmed,tender -->
 - "If you could sit down with the part of you that's most exhausted right now, what do you think it would tell you?"
-<!-- depth:deep | mood:grieving,tender -->
+<!-- depth:deep | mood:grieving -->
 - "Is there a younger version of you that still needs something they never got? What did they need to hear?"
 <!-- depth:medium | mood:overwhelmed,self-critical -->
 - "What's a part of you that works really hard to keep everything together? If it could take a break, what do you think would happen?"
@@ -451,7 +455,7 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "If you could snap your fingers and have the confidence to take that next step, what would the step actually be?"
 
 **Positive Psychology (Strengths, Gratitude, Meaning):**
-<!-- depth:light | mood:reflective,hopeful -->
+<!-- depth:light | mood:reflective,hopeful,low-energy -->
 - "What's something small that went well recently that you didn't fully appreciate at the time?"
 <!-- depth:light | mood:curious,motivated -->
 - "When's the last time you felt really in your element — absorbed in something, using your strengths? What were you doing?"
@@ -461,17 +465,17 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "If today were a chapter in your life, what would you title it? And what would you want the next chapter to be called?"
 <!-- depth:light | mood:curious,hopeful -->
 - "What's something you do that doesn't feel like effort to you but other people seem to find impressive or difficult?"
-<!-- depth:medium | mood:motivated,restless -->
+<!-- depth:medium | mood:disconnected,restless -->
 - "What's an area of your life where you feel like you're coasting when you could be stretching yourself? What would a good challenge look like?"
 <!-- depth:medium | mood:motivated,hopeful -->
 - "If you were going to design a day that had you feeling most like yourself — using your strengths, doing things that matter — what would it look like?"
 <!-- depth:medium | mood:reflective,grieving -->
 - "What's a difficult experience you've been through that, looking back, taught you something you wouldn't trade?"
-<!-- depth:light | mood:reflective,hopeful -->
+<!-- depth:light | mood:reflective,hopeful,low-energy -->
 - "What's an experience from the past year — big or small — that you're genuinely grateful for? What made it matter?"
-<!-- depth:light | mood:reflective,curious -->
+<!-- depth:light | mood:reflective,low-energy -->
 - "What's a small daily ritual or habit that quietly makes your life better — something you'd notice if it disappeared?"
-<!-- depth:medium | mood:reflective,uncertain -->
+<!-- depth:medium | mood:disconnected,uncertain -->
 - "When you think about what gives your life meaning right now, what comes up? And has that shifted at all recently?"
 <!-- depth:light | mood:motivated,self-critical -->
 - "What's something you accomplished recently that you moved past too quickly without really letting yourself feel good about it?"
@@ -503,7 +507,7 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "If the challenge you're facing right now is a chapter, not the whole book — what do you think this chapter is actually about?"
 
 **Self-Compassion / CFT (Kindness Toward Self):**
-<!-- depth:light | mood:self-critical,reflective -->
+<!-- depth:light | mood:self-critical -->
 - "How have you been talking to yourself lately — more like a supportive friend or a harsh coach?"
 <!-- depth:light | mood:self-critical,tender -->
 - "What's something you've been beating yourself up about that you'd forgive a friend for in a heartbeat?"
@@ -511,19 +515,19 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "If you could give yourself permission to struggle without judgment, what would that feel like?"
 <!-- depth:medium | mood:tender,grieving -->
 - "What would you say to a younger version of yourself who was going through what you're going through now?"
-<!-- depth:light | mood:overwhelmed,restless -->
+<!-- depth:light | mood:overwhelmed -->
 - "Right now, in this moment — are you more in fight mode, push-through mode, or somewhere calm? What does that tell you about what you might need?"
 <!-- depth:medium | mood:self-critical,stuck -->
 - "What's a standard you hold yourself to that you would never impose on someone you love? Why the double standard?"
-<!-- depth:medium | mood:overwhelmed,self-critical -->
+<!-- depth:medium | mood:overwhelmed,self-critical,tender -->
 - "If your best friend came to you carrying exactly what you're carrying right now, what would the first thing out of your mouth be? Can you offer yourself that same thing?"
 <!-- depth:medium | mood:low-energy,self-critical -->
 - "When was the last time you let yourself rest without earning it — without needing to justify it with productivity?"
-<!-- depth:deep | mood:self-critical,tender -->
+<!-- depth:deep | mood:self-critical,tender,stuck -->
 - "What's something about being human that you intellectually accept but emotionally still punish yourself for?"
 <!-- depth:deep | mood:tender,grieving -->
 - "Think of a time when someone showed you real kindness during a hard moment. What did that feel like? What would it mean to offer yourself that same quality of care?"
-<!-- depth:deep | mood:self-critical,stuck -->
+<!-- depth:deep | mood:self-critical,stuck,low-energy -->
 - "Is there a part of you that believes you don't deserve gentleness right now — that you need to be harder on yourself to get better? What if that's not actually how it works?"
 <!-- depth:medium | mood:tender,self-critical -->
 - "What would it sound like if you talked to yourself the way you talk to someone you're comforting — not fixing, not advising, just being warm?"
@@ -531,9 +535,9 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 **SFBT (Solutions and What's Working):**
 <!-- depth:light | mood:low-energy,reflective -->
 - "On a scale of 0-10, how would you rate how things are going right now? And what keeps it from being a zero?"
-<!-- depth:light | mood:hopeful,curious -->
+<!-- depth:light | mood:hopeful,low-energy -->
 - "What's one thing that went better than expected recently, even slightly?"
-<!-- depth:light | mood:hopeful,curious -->
+<!-- depth:light | mood:hopeful,curious,low-energy -->
 - "If you woke up tomorrow and things were just a little bit better, what's the first thing you'd notice?"
 <!-- depth:light | mood:self-critical,motivated -->
 - "What's something you've handled well recently that you haven't given yourself credit for?"
@@ -541,13 +545,13 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "Think about a time recently when this problem could have shown up but didn't. What was different about that moment?"
 <!-- depth:light | mood:hopeful,reflective -->
 - "If a friend who knows you well noticed things were getting better for you, what would they point to first?"
-<!-- depth:light | mood:motivated,hopeful -->
+<!-- depth:light | mood:low-energy,hopeful -->
 - "What's one thing you did this week — even something tiny — that moved things in the right direction?"
-<!-- depth:light | mood:reflective,hopeful -->
+<!-- depth:light | mood:reflective,hopeful,low-energy -->
 - "What's something that used to be a real struggle for you that's gotten at least a little easier over time? What helped it shift?"
 <!-- depth:medium | mood:overwhelmed,low-energy -->
 - "Given everything on your plate right now, how are you still managing to hold it together? What's keeping things from falling apart?"
-<!-- depth:light | mood:overwhelmed,reflective -->
+<!-- depth:light | mood:overwhelmed,low-energy -->
 - "What would 'good enough' look like for you right now — not perfect, just enough to feel okay about where things are?"
 <!-- depth:light | mood:disconnected,curious -->
 - "Is there a part of your life that's actually going pretty well that you haven't been paying attention to?"
@@ -559,7 +563,7 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "How are things sitting between you and the people closest to you right now? Any tension, distance, or warmth worth noticing?"
 <!-- depth:medium | mood:anxious,reflective -->
 - "When you need comfort or support, what's your instinct — to reach out, pull away, or something else?"
-<!-- depth:medium | mood:stuck,reflective -->
+<!-- depth:medium | mood:stuck,reflective,restless -->
 - "Is there a relationship dynamic that keeps playing out in your life — a pattern you recognize but can't seem to break?"
 <!-- depth:medium | mood:curious,tender -->
 - "What does 'feeling safe with someone' actually look like for you?"
@@ -571,7 +575,7 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "Think about a moment recently when you felt truly at ease with someone — no performance, no monitoring. What made that possible?"
 <!-- depth:deep | mood:anxious,uncertain -->
 - "When a relationship starts to get close, do you notice any urge to pull back, hold on tighter, or both at the same time?"
-<!-- depth:deep | mood:reflective,grieving -->
+<!-- depth:deep | mood:reflective -->
 - "How did the people who raised you handle it when you were upset or scared? And how do you think that shows up in what you expect from people now?"
 <!-- depth:medium | mood:anxious,restless -->
 - "Is there someone in your life right now where you keep second-guessing where you stand with them? What does that feel like in your body?"
@@ -581,7 +585,7 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "If you could change one thing about how you show up when things get tense with someone you love, what would it be?"
 
 **Existential (Meaning, Freedom, Big Questions):**
-<!-- depth:medium | mood:reflective,restless -->
+<!-- depth:medium | mood:disconnected,restless -->
 - "If you stepped back from all the busyness — what are you actually building your life around right now? Is that what you want?"
 <!-- depth:medium | mood:stuck,uncertain -->
 - "What's a choice you've been avoiding because all the options feel imperfect?"
@@ -591,13 +595,13 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "What would it mean to fully own the life you're living — not the one you wish you had, but this one?"
 <!-- depth:medium | mood:stuck,motivated -->
 - "Is there a version of your life you keep imagining but haven't let yourself move toward? What's in the way — is it fear, or something else?"
-<!-- depth:medium | mood:stuck,restless -->
+<!-- depth:medium | mood:disconnected,restless -->
 - "What's something you've been doing out of habit or obligation that you'd stop if you gave yourself real permission to choose?"
 <!-- depth:medium | mood:reflective,curious -->
 - "When you sit with the question 'what actually matters to me?' — not what should matter, but what does — what comes up?"
 <!-- depth:deep | mood:disconnected,low-energy -->
 - "Is there a part of your life where you feel like you're watching from the outside rather than truly living it?"
-<!-- depth:deep | mood:anxious,grieving -->
+<!-- depth:deep | mood:anxious -->
 - "What are you most afraid of losing — and is that fear shaping your choices in ways you haven't fully looked at?"
 <!-- depth:medium | mood:restless,hopeful -->
 - "If you stopped trying to get life 'right' and just let yourself live it, what would change?"
@@ -609,11 +613,11 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 **Schema Therapy (Deep Patterns):**
 <!-- depth:medium | mood:stuck,curious -->
 - "Is there a feeling that keeps showing up in your life — one that feels way too old and too big for the situations that trigger it?"
-<!-- depth:deep | mood:stuck,self-critical -->
+<!-- depth:deep | mood:stuck,self-critical,tender -->
 - "Is there a belief about yourself that you didn't choose but have been carrying around for as long as you can remember?"
 <!-- depth:medium | mood:stuck,reflective -->
 - "Do you notice a 'script' that seems to repeat in your relationships or your work — like you already know how the story goes?"
-<!-- depth:deep | mood:tender,grieving -->
+<!-- depth:deep | mood:grieving -->
 - "Who did you have to be growing up in order to be okay? And do you still feel like you have to be that person?"
 <!-- depth:deep | mood:anxious,self-critical -->
 - "When you're really honest with yourself, what's the thing you're most afraid people will find out about you?"
@@ -621,15 +625,15 @@ restless, self-critical, uncertain, disconnected, hopeful, tender.
 - "Is there a way you cope when things get painful — shutting down, overworking, people-pleasing — that used to protect you but might be holding you back now?"
 <!-- depth:deep | mood:reflective,curious -->
 - "What's a rule you live by that you never consciously chose — something that was just 'how things worked' growing up?"
-<!-- depth:medium | mood:overwhelmed,restless -->
+<!-- depth:medium | mood:overwhelmed,restless,anxious -->
 - "When you feel criticized or rejected, does the intensity of your reaction ever surprise you — like it's bigger than the situation calls for?"
-<!-- depth:deep | mood:grieving,tender -->
+<!-- depth:deep | mood:tender -->
 - "What's a need you learned to silence early on — for comfort, attention, play, freedom — that still quietly aches when you slow down enough to notice?"
 <!-- depth:deep | mood:disconnected,self-critical -->
 - "What's the difference between who you feel you have to be and who you actually are? Where did that gap come from?"
 <!-- depth:medium | mood:anxious,stuck -->
 - "Do you notice a pattern where you start something — a relationship, a job, a project — already expecting how it will go wrong?"
-<!-- depth:deep | mood:tender,hopeful -->
+<!-- depth:deep | mood:tender -->
 - "If you could go back and tell the kid you were one true thing about how life actually turns out, what would you want them to know?"
 
 ---
