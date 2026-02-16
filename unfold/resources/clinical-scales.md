@@ -416,10 +416,10 @@ time are more meaningful than any single score.*
 
 | Scale | Measures | Score | Range | Severity | Trend |
 |-------|----------|-------|-------|----------|-------|
-| [PHQ-9](./glossary.md#phq-9) | Depression | 12 | 0-27 | Moderate | ↓ Worsening (was 8) |
-| [GAD-7](./glossary.md#gad-7) | Anxiety | 8 | 0-21 | Mild | → Stable |
-| [BHS](./glossary.md#bhs) | Hopelessness | 3 | 0-20 | Minimal | ↑ Improving (was 6) |
-| [SCS-SF](./glossary.md#scs-sf) | Self-compassion | 2.8 | 1-5 | Moderate | → Stable |
+| PHQ-9 | Depression | 12 | 0-27 | Moderate | ↓ Worsening (was 8) |
+| GAD-7 | Anxiety | 8 | 0-21 | Mild | → Stable |
+| BHS | Hopelessness | 3 | 0-20 | Minimal | ↑ Improving (was 6) |
+| SCS-SF | Self-compassion | 2.8 | 1-5 | Moderate | → Stable |
 
 **Scales not scored this session:** PSS-10, PCL-5, PHQ-15, ISI, DERS-18,
 AUDIT-C/DAST-10, ECR-R, MLQ, Flourishing, SWLS, CD-RISC-10
@@ -449,25 +449,11 @@ sessions. Consider whether talking to a professional might be helpful.
 
 ### User-Facing Glossary
 
-A standalone glossary file (`references/glossary.md`) explains every scale in
-plain, warm language. Each journal entry that includes clinical scores must use linked scale names
-in the scores table. Each scale name links to its heading in `glossary.md`:
-
-```
-| [PHQ-9](./glossary.md#phq-9) | Depression | 12 | 0-27 | Moderate | ↓ Worsening |
-```
-
-**Presentation rules:**
-- Each scale name in the scores table is a markdown link to its heading in
-  `glossary.md` (e.g., `[PHQ-9](./glossary.md#phq-9)`). No separate glossary
-  link line needed — the table itself is the navigation.
-- The glossary is maintained once in `references/glossary.md` and lives alongside
-  the user's journal files (copy it into the journal directory on first session)
-- The glossary uses individual `##` headings per scale so anchor links work in
-  any markdown renderer that supports heading anchors (most do)
-- The "Measures" column in the scores table serves as a quick label; clicking the
-  scale name gives the full explanation
-- Write the glossary in plain, warm language — no jargon
+A glossary file (`resources/glossary.md`) explains every scale in plain, warm
+language. Use it as a reference when writing the "Measures" column and "Notes"
+section. The "Measures" column in the scores table should be descriptive enough
+that the user understands what each scale tracks at a glance (e.g., "Depression",
+"Anxiety", "Self-compassion") without needing to look anything up.
 
 ---
 

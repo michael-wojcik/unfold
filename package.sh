@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Package unfold skill for upload to Claude Settings → Capabilities
-# Excludes repo/dev files that aren't part of the skill itself
+# Zips the unfold/ directory which contains SKILL.md and resources/
 
 set -e
 
@@ -10,16 +10,7 @@ OUTFILE="unfold.zip"
 # Remove old build if it exists
 rm -f "$OUTFILE"
 
-zip -r "$OUTFILE" . \
-  -x '.git/*' \
-  -x '.claude/*' \
-  -x '.DS_Store' \
-  -x '.gitignore' \
-  -x 'README.md' \
-  -x 'LICENSE' \
-  -x '.github/*' \
-  -x 'CLAUDE.md' \
-  -x 'package.sh'
+zip -r "$OUTFILE" unfold/ -x '*.DS_Store'
 
 echo ""
 echo "✓ Built $OUTFILE"

@@ -71,7 +71,7 @@ You don't need to announce the mode. Just match the depth to what the user bring
 
 ### 3. Framework Selection
 
-Read `references/frameworks-overview.md` to understand available frameworks and their
+Read `resources/frameworks-overview.md` to understand available frameworks and their
 best-fit scenarios.
 
 Three paths:
@@ -104,30 +104,21 @@ naturally fit the conversation. For instance, you might validate with DBT, explo
 IFS, and reframe with CBT — all in one session.
 
 When loading a specific framework, read the relevant reference file:
-- `references/cbt.md`
-- `references/act.md`
-- `references/dbt.md`
-- `references/ifs.md`
-- `references/motivational.md`
-- `references/positive-psych.md`
-- `references/narrative.md`
-- `references/self-compassion.md`
-- `references/sfbt.md`
-- `references/attachment.md`
-- `references/existential.md`
-- `references/schema.md`
+- `resources/cbt.md`
+- `resources/act.md`
+- `resources/dbt.md`
+- `resources/ifs.md`
+- `resources/motivational.md`
+- `resources/positive-psych.md`
+- `resources/narrative.md`
+- `resources/self-compassion.md`
+- `resources/sfbt.md`
+- `resources/attachment.md`
+- `resources/existential.md`
+- `resources/schema.md`
 
 For clinical scoring at the end of each session, read:
-- `references/clinical-scales.md`
-
-Copy into the user's journal directory on first session:
-- `references/glossary.md`
-- `references/narrative.md`
-- `references/self-compassion.md`
-- `references/sfbt.md`
-- `references/attachment.md`
-- `references/existential.md`
-- `references/schema.md`
+- `resources/clinical-scales.md`
 
 ### 4. The Conversation
 
@@ -157,7 +148,7 @@ done), begin wrapping up:
 ### 6. Clinical Scoring
 
 After the conversation concludes, automatically score the session using validated
-screening scales. Read `references/clinical-scales.md` for the full scale reference,
+screening scales. Read `resources/clinical-scales.md` for the full scale reference,
 scoring methodology, and escalation protocol.
 
 Key rules:
@@ -179,29 +170,24 @@ If the user asks you to stop clinical tracking, stop immediately and respect the
 
 ### 7. Journal Entry Output
 
-Deliver the journal entry in two ways:
+Create the journal entry as a markdown artifact so the user can read it immediately
+in the conversation.
 
-**A. Artifact (in-session reading)**
-Create the journal entry as a `.md` artifact so the user can read it immediately
-in the conversation. Since artifacts are standalone, the `./glossary.md` anchor
-links in the clinical appendix won't resolve — but the "Measures" column provides
-the quick label so the user can still understand each scale at a glance.
+**Artifact naming:** Title the artifact `YYYY-MM-DD-brief-slug` (e.g.,
+`2026-02-14-sitting-with-uncertainty`). This helps the user identify entries
+when browsing their Project.
 
-**B. Saved file (archive)**
-Also save the markdown file to the user's configured journal directory. In the
-saved file, the glossary anchor links will work if `glossary.md` is in the same
-directory (copy it there on first session).
+**Trend tracking:** If previous journal entries are available in the Project
+knowledge base, reference them for trend comparisons in the clinical tracking
+section. If no prior entries are available, skip trend indicators.
 
-**File naming:** `YYYY-MM-DD-brief-slug.md` (e.g., `2026-02-14-sitting-with-uncertainty.md`)
-
-If the user has multiple sessions in one day, append a counter: `2026-02-14-02-afternoon-check-in.md`
-
-**Default journal directory:** `~/journal/reflections/`
-
-If this is the user's first session:
-- Ask where they'd like journal entries saved. Suggest the default and mention
-  they can secure the folder (see §Privacy below).
-- Copy `glossary.md` into their journal directory so the scale name links work.
+**First session:** If this appears to be the user's first session with unfold,
+briefly explain what will happen:
+- You'll have a reflective conversation, then unfold will generate a journal entry
+- The entry includes optional clinical tracking scores for personal use
+- To build a journal over time, they can create an "Unfold" project in Claude
+  and add each journal artifact to the project's knowledge base after each session
+- Keep this light — a sentence or two, not a setup wizard
 
 See §Journal Entry Format for the full template.
 
@@ -394,26 +380,7 @@ time are more meaningful than any single score.*
 
 | Scale | Measures | Score | Range | Severity | Trend |
 |-------|----------|-------|-------|----------|-------|
-| [Scale name](./glossary.md#anchor) | [What it tracks] | [Score] | [Range] | [Severity band] | [↑/→/↓/⚠] |
-
-Use markdown anchor links for each scale name. Anchors are lowercase, hyphenated
-versions of the glossary headings:
-- [PHQ-9](./glossary.md#phq-9)
-- [GAD-7](./glossary.md#gad-7)
-- [BHS](./glossary.md#bhs)
-- [PSS-10](./glossary.md#pss-10)
-- [PCL-5](./glossary.md#pcl-5)
-- [PHQ-15](./glossary.md#phq-15)
-- [ISI](./glossary.md#isi)
-- [DERS-18](./glossary.md#ders-18)
-- [AUDIT-C / DAST-10](./glossary.md#audit-c--dast-10)
-- [Flourishing](./glossary.md#flourishing-scale)
-- [SWLS](./glossary.md#swls)
-- [SCS-SF](./glossary.md#scs-sf)
-- [ECR-R](./glossary.md#ecr-r)
-- [MLQ](./glossary.md#mlq)
-- [CD-RISC-10](./glossary.md#cd-risc-10)
-- [Schema Domains](./glossary.md#schema-domains)
+| [Scale name] | [What it tracks] | [Score] | [Range] | [Severity band] | [↑/→/↓/⚠] |
 
 **Scales not scored this session:** [List with reason: "insufficient session content"]
 
@@ -433,7 +400,6 @@ Written in warm, non-clinical language.]
 
 [If escalation warranted: **Trend alert:** brief, caring note with suggestion.]
 ```
-```
 
 ---
 
@@ -441,15 +407,11 @@ Written in warm, non-clinical language.]
 
 Journal entries contain deeply personal content. Handle with care:
 
-- **First session:** Ask where they'd like entries saved. Suggest `~/journal/reflections/`
-- **Remind about security:** On first session, briefly mention they can encrypt the
-  journal folder for extra privacy:
-  - **macOS:** Create an encrypted disk image via Disk Utility, or use FileVault
-  - **Linux:** Use LUKS encryption or an encrypted home directory
-  - **Cross-platform:** Use a tool like Cryptomator or VeraCrypt
-  - **Git:** If version-controlling entries, consider `git-crypt` for encryption at rest
-- **Don't over-warn.** Mention it once, not every session.
-- **File location reminder:** At the end of each session, mention where the file was saved.
+- Journal entries stay within the user's Claude account and any Project they create
+- **Don't over-warn.** The user chose to journal here; don't add disclaimers every session
+- If the user asks about privacy, explain that entries exist as artifacts within their
+  conversations and optionally in their Project knowledge base — both tied to their
+  Claude account
 
 ---
 

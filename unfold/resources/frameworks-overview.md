@@ -62,7 +62,7 @@ Load the individual framework reference file when:
 
 For light blending in a conversational session, this overview is usually sufficient.
 
-For clinical scoring after each session, always load `references/clinical-scales.md`.
+For clinical scoring after each session, always load `resources/clinical-scales.md`.
 
 ## Framework Contraindications
 
