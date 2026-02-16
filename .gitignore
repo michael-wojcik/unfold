@@ -1,5 +1,8 @@
 # macOS
 .DS_Store
 
+# Environment files
+.env
+
 # Packaged skill output
 unfold.zip
