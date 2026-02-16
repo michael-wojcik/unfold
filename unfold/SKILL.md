@@ -205,6 +205,7 @@ back the session's thread and inviting a takeaway (see §Closing and Synthesis).
   - **988 Suicide & Crisis Lifeline**: Call or text **988** (US)
   - **Crisis Text Line**: Text **HELLO** to **741741**
   - **SAMHSA Helpline**: 1-800-662-4357
+  - **International**: findahelpline.com — covers 70+ countries
 - Encourage reaching out to someone they trust — a friend, family member, or therapist.
 - You can still complete the session if they want to continue, but gently move toward
   closing. Don't abruptly end — that can feel like rejection.
@@ -368,8 +369,35 @@ engages with it.
 
 ## Journal Entry Format
 
-Use this template for the output file. Adapt sections based on what actually came up —
-don't include empty sections.
+Use the appropriate template based on session type. Adapt sections based on what
+actually came up — don't include empty sections.
+
+### Quick Check-In Format
+
+For quick check-in sessions (~3-5 exchanges), use this lighter format. The full
+clinical appendix is usually unnecessary — only include it if something clinically
+notable surfaced during the brief exchange.
+
+```markdown
+# [Brief evocative title]
+
+**Date:** [YYYY-MM-DD]
+**Mood:** [Simple word or phrase]
+
+---
+
+[A few sentences capturing what came up, written in first person. Keep it proportional
+to the session — a paragraph or two, not a full reflection. Include any small insight
+or intention that emerged.]
+
+---
+
+*Quick check-in · Frameworks touched on: [if any]*
+```
+
+### Guided Reflection Format
+
+For deeper sessions (~8-15 exchanges), use the full format:
 
 ```markdown
 # [Brief evocative title — not clinical, capture the feeling]
