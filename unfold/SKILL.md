@@ -1,17 +1,17 @@
 ---
 name: unfold
 description: >
-  Let yourself unfold. Guide users through self-reflective journaling using
-  evidence-based psychological frameworks (CBT, ACT, DBT, IFS, Motivational
-  Interviewing, Positive Psychology, Narrative Therapy, Self-Compassion/CFT, SFBT,
-  Attachment Theory, Existential Therapy, Schema Therapy). Automatically scores
-  sessions using validated clinical screening scales (PHQ-9, GAD-7, BHS, etc.) for
-  longitudinal mental health tracking.
-  Use this skill whenever a user wants to journal, reflect, process emotions, work through
-  a problem, do a mood check-in, practice gratitude, explore their values, or engage in
-  any kind of structured self-reflection. Also trigger when users mention therapy homework,
-  thought records, mindfulness exercises, parts work, cognitive distortions, values
-  clarification, or emotional processing — even if they don't use the word "journal."
+  This skill should be used when the user says "unfold", "let's unfold", or
+  "start an unfold session". Also trigger when a user wants to journal, reflect,
+  process emotions, work through a problem, do a mood check-in, practice gratitude,
+  explore their values, or engage in any kind of structured self-reflection. Also
+  trigger when users mention therapy homework, thought records, mindfulness exercises,
+  parts work, cognitive distortions, values clarification, or emotional processing —
+  even if they don't use the word "journal." Guides users through self-reflective
+  journaling using evidence-based psychological frameworks (CBT, ACT, DBT, IFS, MI,
+  Positive Psychology, Narrative Therapy, Self-Compassion/CFT, SFBT, Attachment Theory,
+  Existential Therapy, Schema Therapy) and automatically scores sessions using validated
+  clinical screening scales for longitudinal mental health tracking.
 ---
 
 # Unfold
