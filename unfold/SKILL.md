@@ -293,6 +293,11 @@ intuition, time of day, or randomness — don't list them all. Each prompt is gr
 in a specific therapeutic framework, which can naturally guide the session if the user
 engages with it.
 
+For first sessions or when you don't yet know the user's comfort level, lean toward
+lighter prompts — SFBT, Positive Psychology, or gentler CBT/ACT prompts work well as
+openers. Save deeper-pattern prompts (Schema childhood wounds, Attachment caregiving
+history, IFS inner child) for users who have already shown comfort with emotional depth.
+
 **CBT (Noticing Thought Patterns):**
 - "Has your mind been telling you any stories about yourself lately — things like 'I always...' or 'I'll never...'? What's the loudest one right now?"
 - "Think about the last time you felt really down or anxious. What was the thought that kicked it off?"
@@ -301,11 +306,11 @@ engages with it.
 - "Is there something you've been avoiding because you've already decided how it'll go? What's the prediction your mind is making?"
 - "When you think about yourself on a bad day versus a good day — how different are the stories? What shifts between them?"
 - "Is there a compliment or good thing that happened recently that you brushed off? What made it hard to let in?"
-- "Have you noticed your mind jumping to the worst-case scenario about something lately? If you had to come up with three other possible outcomes, what would they be?"
+- "Have you noticed your mind jumping to the worst-case scenario about something lately? What's the story it's spinning?"
 - "Is there something you feel like you 'can't' do — and if you're honest, is that a fact or a feeling?"
 - "What's a conclusion you've drawn about someone else's opinion of you recently? What actual evidence do you have for it?"
 - "Is there a rule you hold yourself to — something you believe you 'must' always do or never do — that's been weighing on you?"
-- "Think about something you're calling a failure. If the exact same thing happened to someone you love, would you call it the same thing?"
+- "Think about something you're calling a failure. What would you have to believe about yourself for that label to stick — and how solid is that belief, really?"
 
 **ACT (Values and Willingness):**
 - "What matters most to you right now — and are you living in line with that, or has something pulled you off course?"
@@ -315,11 +320,11 @@ engages with it.
 - "What's a struggle you keep trying to solve or think your way out of — and what has all that effort actually cost you?"
 - "If your difficult feelings had a message for you — not a command, just information — what might they be trying to tell you?"
 - "What's one thing that really matters to you that you've been putting on hold until you feel 'ready'? What if ready never comes?"
-- "When you get hooked by a painful thought, what's the move you always make — the go-to escape? Where does it usually leave you?"
+- "When you get hooked by a painful thought, what's the move you always make — the go-to escape?"
 - "Think about a moment recently when you felt most alive and connected. What were you doing, and what value does that point toward?"
 - "Is there a version of yourself you keep waiting to become before you start living the way you want? What would it mean to start now, as you are?"
 - "What's a discomfort you'd be willing to carry if it meant moving toward something that genuinely matters to you?"
-- "Your mind is probably giving you reasons right now for why things can't change. Can you notice those reasons without buying into them — just as sounds your mind makes?"
+- "Your mind is probably giving you reasons right now for why things can't change. What if you didn't have to argue with those reasons or believe them — just let them be there while you keep moving?"
 
 **DBT (Mindfulness and Emotional Awareness):**
 - "Take a breath. What do you notice in your body right now — any tension, heaviness, restlessness?"
@@ -360,7 +365,7 @@ engages with it.
 - "What have you already tried when it comes to this? What did you learn from those attempts, even the ones that didn't work?"
 - "Is there something you've already started moving toward, even in a small way, that you haven't fully acknowledged yet?"
 - "What would the people who care about you say if you asked them what they notice about where you are with this?"
-- "You mentioned wanting things to be different. What's the strongest reason — the one that matters most to you personally, not what anyone else thinks?"
+- "If you could name one thing you'd want to be different in your life right now — what's the strongest reason it matters to you personally, not what anyone else thinks?"
 - "If you could snap your fingers and have the confidence to take that next step, what would the step actually be?"
 
 **Positive Psychology (Strengths, Gratitude, Meaning):**
@@ -372,7 +377,7 @@ engages with it.
 - "What's an area of your life where you feel like you're coasting when you could be stretching yourself? What would a good challenge look like?"
 - "If you were going to design a day that had you feeling most like yourself — using your strengths, doing things that matter — what would it look like?"
 - "What's a difficult experience you've been through that, looking back, taught you something you wouldn't trade?"
-- "Who's someone in your life you've been meaning to appreciate out loud? What would you want them to know?"
+- "What's an experience from the past year — big or small — that you're genuinely grateful for? What made it matter?"
 - "What's a small daily ritual or habit that quietly makes your life better — something you'd notice if it disappeared?"
 - "When you think about what gives your life meaning right now, what comes up? And has that shifted at all recently?"
 - "What's something you accomplished recently that you moved past too quickly without really letting yourself feel good about it?"
@@ -396,7 +401,7 @@ engages with it.
 - "What's something you've been beating yourself up about that you'd forgive a friend for in a heartbeat?"
 - "If you could give yourself permission to struggle without judgment, what would that feel like?"
 - "What would you say to a younger version of yourself who was going through what you're going through now?"
-- "Right now, in this moment — are you more in fight mode, striving mode, or somewhere calm? What does that tell you about what you might need?"
+- "Right now, in this moment — are you more in fight mode, push-through mode, or somewhere calm? What does that tell you about what you might need?"
 - "What's a standard you hold yourself to that you would never impose on someone you love? Why the double standard?"
 - "If your best friend came to you carrying exactly what you're carrying right now, what would the first thing out of your mouth be? Can you offer yourself that same thing?"
 - "When was the last time you let yourself rest without earning it — without needing to justify it with productivity?"
@@ -413,11 +418,11 @@ engages with it.
 - "Think about a time recently when this problem could have shown up but didn't. What was different about that moment?"
 - "If a friend who knows you well noticed things were getting better for you, what would they point to first?"
 - "What's one thing you did this week — even something tiny — that moved things in the right direction?"
-- "Imagine tonight you fall asleep and wake up tomorrow feeling just half a point better. What's the first thing that would be different about your morning?"
-- "Given everything on your plate right now, how are you still managing to hold it together? That's worth looking at."
+- "What's something that used to be a real struggle for you that's gotten at least a little easier over time? What helped it shift?"
+- "Given everything on your plate right now, how are you still managing to hold it together? What's keeping things from falling apart?"
 - "What would 'good enough' look like for you right now — not perfect, just enough to feel okay about where things are?"
 - "Is there a part of your life that's actually going pretty well that you haven't been paying attention to?"
-- "What's something you've been handling better than you realize — something you'd notice if you stepped back and looked?"
+- "Who or what has been a quiet source of support for you lately — something that's helped even if you haven't fully named it?"
 
 **Attachment Theory (Relational Patterns):**
 - "How are things sitting between you and the people closest to you right now? Any tension, distance, or warmth worth noticing?"
