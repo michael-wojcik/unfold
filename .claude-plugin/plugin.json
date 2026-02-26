@@ -1,0 +1,22 @@
+{
+  "name": "unfold",
+  "version": "1.0.0",
+  "description": "Guided reflective journaling with evidence-based psychological frameworks and optional clinical screening",
+  "author": {
+    "name": "michael-wojcik",
+    "url": "https://github.com/michael-wojcik"
+  },
+  "repository": "https://github.com/michael-wojcik/unfold",
+  "homepage": "https://github.com/michael-wojcik/unfold",
+  "license": "MIT",
+  "keywords": [
+    "journaling",
+    "mental-health",
+    "reflection",
+    "psychology",
+    "clinical-screening",
+    "therapy",
+    "mindfulness",
+    "self-reflection"
+  ]
+}
