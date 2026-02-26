@@ -1,0 +1,13 @@
+{
+  "name": "unfold-marketplace",
+  "owner": {
+    "name": "michael-wojcik"
+  },
+  "plugins": [
+    {
+      "name": "unfold",
+      "source": "./",
+      "description": "Guided reflective journaling with evidence-based psychological frameworks and optional clinical screening"
+    }
+  ]
+}
