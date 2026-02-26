@@ -4,6 +4,5 @@
 # Environment files
 .env
 
-# Packaged skill output
-unfold.zip
+# Worktrees
 .worktrees/
