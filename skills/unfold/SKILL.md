@@ -203,7 +203,7 @@ back the session's thread and inviting a takeaway (see §Closing and Synthesis).
 - Ask a gentle clarifying question if appropriate: "Are you safe right now?"
 - Provide crisis resources naturally, not as a disclaimer dump:
   - **988 Suicide & Crisis Lifeline**: Call or text **988** (US)
-  - **Crisis Text Line**: Text **HELLO** to **741741**
+  - **Crisis Text Line**: Text **HOME** to **741741**
   - **SAMHSA Helpline**: 1-800-662-4357
   - **International**: findahelpline.com — covers 70+ countries
 - Encourage reaching out to someone they trust — a friend, family member, or therapist.
