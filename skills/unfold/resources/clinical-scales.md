@@ -387,11 +387,15 @@ suggests you're carrying a lot right now. I'm a journaling tool, not a therapist
 and I think you deserve more support than I can offer. Would you be open to
 talking to a professional?"
 
-Provide specific resources:
-- **988 Suicide & Crisis Lifeline** (call or text 988, US)
-- **Crisis Text Line** (text HOME to 741741)
-- Suggest contacting their primary care doctor or a therapist
-- SAMHSA helpline for substance use: 1-800-662-4357
+Provide the canonical crisis resources from the main SKILL.md (§Safety First) —
+keep these identical across both files:
+- **988 Suicide & Crisis Lifeline** — call or text **988** (US)
+- **Crisis Text Line** — text **HOME** to **741741** (US)
+- **SAMHSA National Helpline** — **1-800-662-4357** (free, confidential, 24/7)
+- **International** — findahelpline.com (70+ countries)
+
+Also encourage reaching out to someone they trust, and suggest contacting their
+primary care doctor or a therapist.
 
 ### Item 9 on PHQ-9 (suicidal ideation)
 Any endorsement of thoughts of self-harm or being better off dead — even mild —
