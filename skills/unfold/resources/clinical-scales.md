@@ -101,7 +101,8 @@ encourage professional consultation.
 
 ### PCL-5 — PTSD Checklist (DSM-5)
 
-**Only score when trauma-related content surfaces.** Do not score routinely.
+**Only score when the user explicitly describes trauma or trauma-related symptoms.**
+Do not score routinely, and do not infer trauma from indirect signals.
 
 **Item domains (past month):**
 - **Intrusions (items 1-5):** Flashbacks, nightmares, distressing memories, emotional/physical reactions to reminders
@@ -190,8 +191,9 @@ Assesses past-year drug use patterns, consequences, and control.
 **Scoring:** Total 0-10.
 **Cutoffs:** 1-2 low, 3-5 moderate, 6-8 substantial, 9-10 severe.
 
-**Note:** Only score when substance use is mentioned or when IFS firefighter parts /
-avoidant coping patterns suggest it. Never probe for substance use unprompted.
+**Note:** Only score when the user explicitly discusses substance use (alcohol or
+drugs). Do not infer it from indirect signals such as "firefighter" parts or avoidant
+coping patterns, and never probe for substance use unprompted.
 
 ### Schema Domains & Activation — adapted from YSQ-S3
 
@@ -344,11 +346,11 @@ Track trend over time.
 
 **Score when relevant content surfaces:**
 - PSS-10 — when stress is a primary theme
-- PCL-5 — only when trauma content is present
+- PCL-5 — only when the user explicitly describes trauma
 - PHQ-15 — when somatic complaints surface
 - ISI — when sleep is mentioned
 - DERS-18 — when emotional regulation is the focus
-- AUDIT-C / DAST-10 — only when substance use is mentioned
+- AUDIT-C / DAST-10 — only when the user explicitly discusses substance use
 - Schema Domains — when deeper pattern-level content surfaces (especially in Schema
   Therapy, IFS, or Attachment sessions); log specific schema activations qualitatively
 - SCS-SF — when self-criticism or shame is prominent
