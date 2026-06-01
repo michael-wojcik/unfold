@@ -4,6 +4,5 @@
 # Environment files
 .env
 
-# Claude Code / local session artifacts (worktrees, local settings, remember buffers)
-.claude/
-.remember/
+# Worktrees
+.worktrees/
