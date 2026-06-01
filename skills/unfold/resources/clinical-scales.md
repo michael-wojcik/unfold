@@ -2,12 +2,15 @@
 
 ## Overview
 
-After each journaling session, automatically infer scores on relevant validated
-screening scales based on the session content. These scores are appended to the
-journal entry for longitudinal tracking.
+After each journaling session, automatically infer tracking impressions by mapping the
+session content onto the structure of established screening scales. These impressions
+are appended to the journal entry for longitudinal tracking.
 
 **Critical principles:**
-- Scores are **screening and tracking tools, never diagnoses**
+- **Inferred impressions, not administered tests.** The scales are validated as
+  self-administered questionnaires, but a number inferred from conversation is not a
+  validated measurement — its severity bands carry no validated meaning, it is never a
+  diagnosis, and it must not be presented to a clinician as a test result.
 - Infer scores from what the user expressed during the session — **never ask them
   to fill out a questionnaire** after a vulnerable conversation
 - **Not every scale scores every session.** Only score scales where the session
@@ -31,12 +34,16 @@ stated).
 When content is ambiguous or insufficient for a scale item, note it as "insufficient
 signal" rather than guessing.
 
-Report scores as:
-- **Numerical score** (on the scale's validated range)
+Report each as:
 - **Measures label** (plain-language description: "Depression", "Anxiety", "Self-compassion", etc.)
-- **Severity band** (using the scale's published cutoffs)
-- **Brief rationale** (1-2 sentences explaining what session content informed the score)
-- **Trend note** (if prior sessions exist: stable, improving, worsening)
+- **Impression** (a qualitative band — "minimal", "mild", "moderate", etc. — mapped from
+  the scale's published cutoffs, but presented as an inferred impression, not a precise score)
+- **Range** (the scale's range, for context — e.g. 0-27)
+- **Brief rationale** (1-2 sentences explaining what session content informed the impression)
+- **Trend note** (if prior sessions exist: about the same, easing, or deepening)
+
+You may reason about an approximate numeric value internally to pick the band and check
+escalation thresholds, but don't surface a precise integer as if it were a measured score.
 
 ---
 
@@ -103,7 +110,9 @@ encourage professional consultation.
 - **Arousal (items 15-20):** Irritability, recklessness, hypervigilance, startle, concentration, sleep problems
 
 **Scoring:** Each item 0-4. Total: 0-80.
-**Cutoffs:** Score ≥31-33 suggests probable PTSD diagnosis.
+**Cutoffs:** Scores ≥31-33 are the level at which a professional trauma assessment is
+often warranted — this does not establish a PTSD diagnosis, and an inferred impression
+even less so.
 **Escalation:** Score ≥33 → strongly encourage professional trauma-focused therapy.
 
 ### PHQ-15 — Somatic Symptom Severity
@@ -414,16 +423,18 @@ the journal entry, after the main reflection. Use this format:
 
 ## 📊 Session Insights (Clinical Tracking)
 
-*These scores are automatically inferred from session content using validated
-screening scales. They are for personal tracking, not diagnosis. Trends over
-time are more meaningful than any single score.*
+*These are impressions inferred from the conversation — not administered tests or
+clinical measurements. They map onto the structure of established screening scales,
+but the bands are not validated results and are not a diagnosis. They're here only to
+help notice trends over time; direction matters far more than any single reading, and
+they should never be shown to a provider as test results.*
 
-| Scale | Measures | Score | Range | Severity | Trend |
-|-------|----------|-------|-------|----------|-------|
-| PHQ-9 | Depression | 12 | 0-27 | Moderate | ↓ Worsening (was 8) |
-| GAD-7 | Anxiety | 8 | 0-21 | Mild | → Stable |
-| BHS | Hopelessness | 3 | 0-20 | Minimal | ↑ Improving (was 6) |
-| SCS-SF | Self-compassion | 2.8 | 1-5 | Moderate | → Stable |
+| Scale | Measures | Impression | Range | Trend |
+|-------|----------|-----------|-------|-------|
+| PHQ-9 | Depression | moderate | 0-27 | ↓ deepened since last time |
+| GAD-7 | Anxiety | mild | 0-21 | → about the same |
+| BHS | Hopelessness | minimal | 0-20 | ↑ easing |
+| SCS-SF | Self-compassion | moderate | 1-5 | → about the same |
 
 **Scales not scored this session:** PSS-10, PCL-5, PHQ-15, ISI, DERS-18,
 AUDIT-C/DAST-10, ECR-R, MLQ, Flourishing, SWLS, CD-RISC-10

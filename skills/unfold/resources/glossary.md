@@ -2,9 +2,10 @@
 
 *Let yourself unfold.*
 
-These scores are automatically inferred from your journaling sessions using
-validated screening scales. They are for personal tracking, not diagnosis.
-Trends over time are more meaningful than any single score.
+These are impressions inferred from your journaling sessions — not tests you took or
+clinical measurements. They borrow the structure of established screening scales to
+help notice patterns, but they aren't validated results and they aren't a diagnosis.
+The direction things move over time matters far more than any single reading.
 
 ---
 
@@ -116,21 +117,23 @@ unrelenting standards.
 
 ---
 
-## How Scores Work
+## How These Impressions Work
 
-- **Range** tells you the possible minimum and maximum for that scale.
-- **Severity** is where your score falls within published clinical cutoffs
-  (e.g., minimal, mild, moderate, severe).
-- **Trend** compares to your prior sessions: ↑ improving, → stable, ↓ worsening,
-  ⚠ sustained elevation.
-- Not every scale is scored every session. Only scales where the session content
-  provides enough signal are included.
-- Scores are conservative. When there's ambiguity, the less severe interpretation
+- **Impression** is a rough, qualitative read — minimal, mild, moderate, and so on —
+  loosely mapped from the scale's published cutoffs. It's an impression, not a precise
+  score or a clinical rating.
+- **Range** is the scale's possible minimum and maximum, shown only for context — your
+  impression isn't a measured number sitting at an exact point inside it.
+- **Trend** compares to your prior sessions: ↑ improving, → about the same, ↓ worsening,
+  ⚠ sustained elevation worth attention.
+- Not every scale is reflected every session — only the ones the conversation gives
+  enough to go on.
+- These reads are conservative: when something's ambiguous, the gentler interpretation
   is used.
 
 ## Important
 
-These are screening tools, not diagnoses. A high score doesn't mean something is
-wrong with you — it means a pattern is worth paying attention to. If scores stay
-elevated over several sessions, consider talking to a therapist or counselor. That's
-not failure — it's using the data well.
+These are inferred impressions, not tests or diagnoses. A heavier reading doesn't mean
+something is wrong with you — it means a pattern is worth paying attention to. If a
+pattern stays elevated over several sessions, consider talking to a therapist or
+counselor. That's not failure — it's using the data well.

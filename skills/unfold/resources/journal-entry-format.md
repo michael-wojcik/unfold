@@ -83,13 +83,15 @@ they arose naturally — never fabricate homework.]
 
 ## 📊 Session Insights (Clinical Tracking)
 
-*These scores are automatically inferred from session content using validated
-screening scales. They are for personal tracking, not diagnosis. Trends over
-time are more meaningful than any single score.*
+*These are impressions inferred from the conversation — not administered tests or
+clinical measurements. They map onto the structure of established screening scales,
+but the bands are not validated results and are not a diagnosis. They're here only to
+help notice trends over time; direction matters far more than any single reading, and
+they should never be shown to a provider as test results.*
 
-| Scale | Measures | Score | Range | Severity | Trend |
-|-------|----------|-------|-------|----------|-------|
-| [Scale name] | [What it tracks] | [Score] | [Range] | [Severity band] | [↑/→/↓/⚠] |
+| Scale | Measures | Impression | Range | Trend |
+|-------|----------|-----------|-------|-------|
+| [Scale name] | [What it tracks] | [qualitative band, e.g. "mild–moderate" — not a precise score] | [Range] | [↑/→/↓/⚠] |
 
 **Scales not scored this session:** [List with reason: "insufficient session content"]
 
