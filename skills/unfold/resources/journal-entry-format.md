@@ -91,7 +91,10 @@ they should never be shown to a provider as test results.*
 
 | Scale | Measures | Impression | Range | Trend |
 |-------|----------|-----------|-------|-------|
-| [Scale name] | [What it tracks] | [qualitative band, e.g. "mild–moderate" — not a precise score] | [Range] | [↑/→/↓/⚠] |
+| [Scale name] | [What it tracks] | [qualitative band, e.g. "mild–moderate" — not a precise score] | [Range] | [↑/→/↓/⚠, or "—" if no prior entry] |
+
+*(Only show a trend against a prior entry actually in context. No prior entry → "—";
+never invent a baseline.)*
 
 **Scales not scored this session:** [List with reason: "insufficient session content"]
 

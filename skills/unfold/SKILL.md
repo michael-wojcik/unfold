@@ -312,13 +312,24 @@ respect that for this and future sessions.
 Create the journal entry as a markdown artifact so the user can read it immediately
 in the conversation.
 
+**Output medium and location.** The canonical container is a single markdown document —
+the reflection, with the clinical appendix (if any) appended at the end. Deliver it as an
+artifact wherever artifacts are supported. Continuity across sessions runs through the
+user's Claude Project: they save each entry into the Project's knowledge base, and
+§Session Preparation reads from there next time. If there's no Project (e.g., a one-off
+chat), the entry still works as a standalone artifact — there just won't be cross-session
+continuity, and you shouldn't imply there is. Don't write entries to disk or anywhere
+outside the conversation and the user's Project unless they explicitly ask.
+
 **Artifact naming:** Title the artifact `YYYY-MM-DD-brief-slug` (e.g.,
 `2026-02-14-sitting-with-uncertainty`). This helps the user identify entries
 when browsing their Project.
 
-**Trend tracking:** Use the context from §Session Preparation to populate trend
-indicators (↑ ↓ → ⚠) in the clinical tracking section. If no prior entries
-exist, skip trend indicators.
+**Trend tracking:** Populate trend indicators (↑ ↓ → ⚠) only from prior entries
+actually present in context via §Session Preparation. **Never state a prior reading or a
+multi-session trend you can't verify from an entry in front of you** — no invented
+baselines, no "was X last time" unless that entry is actually in context. If a scale has
+no prior entry available, show its trend as "—" and don't imply history exists.
 
 **Save reminder (early sessions only):** For roughly the first 3-5 sessions, after
 presenting the journal artifact, gently remind the user to add it to their Project

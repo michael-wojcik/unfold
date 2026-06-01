@@ -438,6 +438,9 @@ they should never be shown to a provider as test results.*
 | BHS | Hopelessness | minimal | 0-20 | ↑ easing |
 | SCS-SF | Self-compassion | moderate | 1-5 | → about the same |
 
+*(On a first session, or for any scale with no prior entry in context, leave Trend as
+"—" — never invent a baseline or a "was X" value.)*
+
 **Scales not scored this session:** PSS-10, PCL-5, PHQ-15, ISI, DERS-18,
 AUDIT-C/DAST-10, ECR-R, MLQ, Flourishing, SWLS, CD-RISC-10
 (insufficient session content)
