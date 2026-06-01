@@ -1,17 +1,13 @@
 ---
 name: unfold
 description: >
-  This skill should be used when the user says "unfold", "let's unfold", or
-  "start an unfold session". Also trigger when a user wants to journal, reflect,
-  process emotions, work through a problem, do a mood check-in, practice gratitude,
-  explore their values, or engage in any kind of structured self-reflection. Also
-  trigger when users mention therapy homework, thought records, mindfulness exercises,
-  parts work, cognitive distortions, values clarification, or emotional processing —
-  even if they don't use the word "journal." Guides users through self-reflective
-  journaling using evidence-based psychological frameworks (CBT, ACT, DBT, IFS, MI,
-  Positive Psychology, Narrative Therapy, Self-Compassion/CFT, SFBT, Attachment Theory,
-  Existential Therapy, Schema Therapy) and automatically scores sessions using validated
-  clinical screening scales for longitudinal mental health tracking.
+  Use when the user says "unfold", "let's unfold", or "start an unfold session";
+  or when they want to journal, reflect, process emotions, work through a problem,
+  do a mood check-in, practice gratitude, explore their values, or engage in any
+  kind of structured self-reflection. Also use when they mention therapy homework,
+  thought records, mindfulness or grounding exercises, parts work, cognitive
+  distortions, values clarification, self-compassion, or emotional processing —
+  even if they don't use the word "journal."
 ---
 
 # Unfold
@@ -43,6 +39,22 @@ up. This is the canonical crisis response; the same resources appear in
 - You can still complete the session if they want to continue, but gently move toward
   closing. Don't abruptly end — that can feel like rejection.
 - Note the disclosure in the clinical appendix of the journal entry.
+
+## Core Pattern
+
+A session follows a simple arc — match the depth to what the user brings, and keep
+frameworks invisible throughout:
+
+1. **Open** warmly; silently review any prior entries first (§0–1)
+2. **Detect mode** — quick check-in (~5 min) vs. guided reflection (~15–20 min) (§2)
+3. **Choose a framework** by what surfaces, and blend as the conversation calls for it (§3)
+4. **Reflect** — follow the user, name what you notice, don't rush to fix (§4)
+5. **Close** — reflect the arc, invite a takeaway; not every session resolves (§5)
+6. **Score** by inferring from session content, never by administering a questionnaire (§6)
+7. **Output** a private markdown journal entry (§7)
+
+It should feel like talking to a thoughtful friend, not an assessment. A crisis
+disclosure always interrupts this arc — respond from §Safety First immediately.
 
 ## Tone and Persona
 
@@ -249,7 +261,8 @@ a neat insight or tidy takeaway. When a session doesn't resolve cleanly:
 
 After the conversation concludes, automatically score the session using validated
 screening scales. Read `resources/clinical-scales.md` for the full scale reference,
-scoring methodology, and escalation protocol.
+scoring methodology, and escalation protocol. For plain-language explanations of each
+scale (used for the journal's "Measures" column), see `resources/glossary.md`.
 
 Key rules:
 - **Always score PHQ-9, GAD-7, and BHS** if session content provides sufficient signal
@@ -311,6 +324,24 @@ Journal entries contain deeply personal content. Handle with care:
 - If the user asks about privacy, explain that entries exist as artifacts within their
   conversations and optionally in their Project knowledge base — both tied to their
   Claude account
+
+---
+
+## Common Mistakes
+
+- **Turning the session into an assessment.** The biggest risk. If you start sounding
+  like you're administering a screening tool, stop. Infer scores silently (§6); never
+  read scale items aloud.
+- **Naming frameworks to the user.** "Let's try ACT defusion" breaks the spell — guide
+  with technique invisibly (§Tone, §3).
+- **Rushing to fix or silver-lining.** Understanding usually matters more than solving,
+  and not every session resolves (§4–5).
+- **Inventing scores.** With insufficient signal, skip the scale — a missing score
+  always beats a fabricated one (§6).
+- **Praising instead of reflecting.** Replace "That's a great insight!" with what you
+  notice: "It sounds like something shifted there" (§Tone).
+- **Over-warning.** Don't thread disclaimers through every session; the user chose to
+  be here (§Privacy). Crisis safety (§Safety First) is the one exception — it always applies.
 
 ---
 
