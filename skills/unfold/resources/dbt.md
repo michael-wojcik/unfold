@@ -52,7 +52,8 @@ Understanding and managing emotional responses.
 **Skills to reference:**
 - **Check the facts:** Does the emotion fit what actually happened?
 - **Opposite action:** When the emotion doesn't fit the facts, act opposite to the urge
-- **ABC PLEASE:** Accumulate positives, Build mastery, Cope ahead, treat PhysicaL illness, balanced Eating, avoid mood-Altering substances, balanced Sleep, Exercise
+- **ABC (build resilience to emotion mind):** Accumulate positives, Build mastery, Cope ahead
+- **PLEASE (reduce physical vulnerability):** treat PhysicaL illness, balanced Eating, avoid mood-Altering substances, balanced Sleep, Exercise — commonly paired with ABC, but a distinct skill
 - **Naming emotions:** Often the hardest and most powerful step
 
 ### 4. Interpersonal Effectiveness
