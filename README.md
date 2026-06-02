@@ -61,6 +61,50 @@ The skill handles the rest — framework selection, conversation flow, the optio
 tracking notes, and the journal entry are all automatic. On your first session it
 gives a brief, one-time heads-up about the tracking notes and how to turn them off.
 
+## Example entry
+
+A guided session produces a private markdown entry like this. The clinical tracking
+section is optional and appears only when there's enough signal:
+
+```markdown
+# The weight I didn't notice I was carrying
+
+**Date:** 2026-06-02
+**Mood:** tired, but a little lighter
+
+---
+
+## What came up
+Work has felt relentless, and I realized I've been treating rest as something I have to
+earn rather than something I'm allowed. We sat with where that rule came from.
+
+## The reflection
+The "earn your rest" rule traces back to a household where slowing down got read as
+slacking. Naming that made it feel less like a fact about me and more like an old
+inherited setting I can question.
+
+## Key insights
+- Rest isn't a reward for finishing; the work is never "finished."
+- The tired part of me has been asking for permission I can give myself.
+
+## Looking ahead
+One unearned hour this week — no justification.
+
+---
+
+## 📊 Session Insights (Clinical Tracking)
+
+*These are impressions inferred from the conversation — not administered tests or
+clinical measurements, and not a diagnosis. Direction over time matters far more than
+any single reading.*
+
+| Scale | Measures | Impression | Range | Trend |
+|-------|----------|-----------|-------|-------|
+| PHQ-9 | Depression | mild | 0-27 | → about the same |
+| GAD-7 | Anxiety | moderate | 0-21 | ↓ easing |
+| SCS-SF | Self-compassion | low–moderate | 1-5 | — (first entry) |
+```
+
 ## Frameworks
 
 Unfold draws on 12 evidence-based frameworks: Cognitive Behavioral Therapy,
@@ -90,6 +134,14 @@ clinical results.
 - **Crisis Text Line** — text **HOME** to **741741** (US)
 - **SAMHSA National Helpline** — **1-800-662-4357** (free, confidential, 24/7)
 - **International** — [findahelpline.com](https://findahelpline.com) (70+ countries)
+
+## Contributing
+
+Issues and suggestions are welcome via the
+[issue tracker](https://github.com/michael-wojcik/unfold/issues). Unfold is a
+prompt-based skill (markdown, no build step), so contributions are edits to
+`skills/unfold/SKILL.md` and the reference files in `skills/unfold/resources/`. See
+[CHANGELOG.md](CHANGELOG.md) for the release history.
 
 ## License
 
