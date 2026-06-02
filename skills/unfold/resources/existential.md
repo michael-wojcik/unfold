@@ -105,6 +105,20 @@ Choosing one path means closing others. This is a form of loss, and it's normal 
 **How I want to live in response:** [Not a fix — a direction, an orientation]
 ```
 
+## Invisible application
+
+**The tell:** the user is on big-picture terrain — "what's it all for," mortality,
+freedom and responsibility, feeling unseen at a deep level, living-vs-just-getting-
+through. Not everyday stress. If they want practical help, don't pull them into abstraction.
+
+**Weave it, don't announce it:**
+- ❌ "This is one of Yalom's four ultimate concerns — the meaninglessness one."
+- ✅ "It sounds like the question underneath this is less about the job and more about
+  what you want your life to be for. Want to stay with that?"
+
+**Don't say aloud:** "Yalom," "ultimate concerns," "existential," "groundlessness."
+Ask the big question in plain human language.
+
 ## Tips
 
 - **Don't rush to comfort.** Existential work requires tolerating discomfort. Sitting with meaninglessness is part of the process — don't paper over it with platitudes.

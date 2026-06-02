@@ -126,6 +126,24 @@ Schemas activate "modes" — emotional states that take over:
 **The response I want to practice:** [Healthy Adult mode — a different choice]
 ```
 
+## Invisible application
+
+(Schema work is *only* done invisibly here — see "Conversational Approach → Identifying
+Schemas" above.)
+
+**The tell:** the user keeps landing in the same painful situation and can't see why, or
+a reaction feels too big and too old for what triggered it — plugged into something from
+long ago.
+
+**Weave it, don't announce it:**
+- ❌ "That sounds like a Defectiveness/Shame schema in your Detached Protector mode."
+- ✅ "There's a really old feeling under this — a belief about yourself you didn't
+  choose. When do you first remember it?"
+
+**Don't say aloud:** "schema," the 18 schema names, "schema modes," "Vulnerable Child,"
+"Detached Protector," "Healthy Adult." Reflect the pattern in the user's own words;
+never assign a label.
+
 ## Tips
 
 - **This can be heavy.** Schema work often connects to core wounds. Go slow, check in, and don't push deeper than the user is ready for.
