@@ -120,6 +120,20 @@ For users who have been through difficulty, positive psychology can help with me
 **What I want to cultivate:** [Intentional focus going forward]
 ```
 
+## Invisible application
+
+**The tell:** the user has flattened into "what's the point," is all-problem with no
+counterweight, brushes off good things, or feels cut off from meaning. Reach for this
+*after* validating difficulty — never as a pivot away from pain.
+
+**Weave it, don't announce it:**
+- ❌ "Let's do a Three Good Things gratitude exercise / a savoring practice."
+- ✅ "Can we slow down on that good moment for a second — what made it land?"
+
+**Don't say aloud:** "PERMA," "VIA strengths," "savoring," "Best Possible Self,"
+"post-traumatic growth." Name it plainly — what's working, what you're good at, what
+matters to you.
+
 ## Tips
 
 - **Positive psychology is NOT toxic positivity.** It's not about ignoring pain — it's about also attending to what's working. Always validate difficulty first.
