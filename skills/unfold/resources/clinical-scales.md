@@ -59,8 +59,10 @@ escalation thresholds, but don't surface a precise integer as if it were a measu
 5. Poor appetite or overeating
 6. Feeling bad about yourself — or that you're a failure
 7. Trouble concentrating
-8. Moving or speaking noticeably slowly/restlessly
-9. Thoughts of self-harm or being better off dead
+8. Moving or speaking so slowly that others could have noticed — or the opposite, being so fidgety or restless that you've been moving around a lot more than usual
+9. Thoughts that you would be better off dead, or of hurting yourself in some way
+
+*(Items 1-7 are abbreviated; 8-9 follow the validated wording, with the safety item verbatim.)*
 
 **Scoring:** Each item 0-3 (not at all → nearly every day). Total: 0-27.
 **Cutoffs:** 0-4 minimal, 5-9 mild, 10-14 moderate, 15-19 moderately severe, 20-27 severe.
@@ -125,13 +127,14 @@ nausea/gas/indigestion, fatigue, trouble sleeping, menstrual issues.
 
 **Scoring:** Each item 0-2 (not bothered → bothered a lot). Total: 0-30.
 **Cutoffs:** 0-4 minimal, 5-9 low, 10-14 medium, 15-30 high somatic severity.
-**Note:** Only score items the user mentioned. Somatic content surfaces more in
-DBT-oriented sessions or when exploring body awareness.
+**Note:** Only score items the user mentioned. The menstrual item applies only to some
+users — skip it unless the user raised it, and never infer it. Somatic content surfaces
+more in DBT-oriented sessions or when exploring body awareness.
 
 ### BHS — Beck Hopelessness Scale
 
-**Critical safety instrument.** Hopelessness is the strongest predictor of suicidal
-ideation, more so than depression severity.
+**Critical safety instrument.** Hopelessness is a strong predictor of suicidal
+ideation — in Beck's research, often a better signal than depression severity alone.
 
 **Item domains:**
 - Feelings about the future (pessimism vs. optimism)
@@ -141,7 +144,9 @@ ideation, more so than depression severity.
 - Sense of giving up
 
 **Scoring:** 20 true/false items. Total: 0-20.
-**Cutoffs:** 0-3 minimal, 4-8 mild, 9-14 moderate, 15-20 severe hopelessness.
+**Cutoffs:** 0-3 minimal, 4-8 mild, 9-14 moderate, 15-20 severe hopelessness. When inferred
+rather than administered, treat these bands as rough orientation, not a measurement — and
+err toward the more cautious read on anything safety-related.
 **Escalation:** Score ≥9, especially if sustained → urgent encouragement to seek
 professional support. Score ≥15 → express direct concern and provide crisis resources.
 

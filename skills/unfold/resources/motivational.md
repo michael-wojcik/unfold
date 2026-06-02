@@ -33,7 +33,7 @@ Genuine acknowledgment of strengths, efforts, and values — not cheerleading.
 **Examples:**
 - "The fact that you're thinking about this says something about how much you care."
 - "You've been dealing with a lot and you're still showing up."
-- "That took courage to admit."
+- "Being this honest with yourself takes real courage."
 
 ### Reflections
 Mirroring back what the user says — sometimes going a little further than they stated.

@@ -24,7 +24,8 @@ hypervigilance, planning.
 extinguish it. Show up as: numbing, dissociation, bingeing, rage, self-harm,
 distraction, addiction, impulsive behavior.
 
-**Self** — Not a part. The core of the person. Characterized by the "8 C's":
+**Self** — Not a part. The innate, undamaged core of the person — it can't be broken,
+only obscured when parts take over. Characterized by the "8 C's":
 Curiosity, Compassion, Calm, Clarity, Confidence, Courage, Creativity, Connectedness.
 
 ### Self-Energy

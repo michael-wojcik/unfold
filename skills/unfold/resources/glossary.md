@@ -25,7 +25,7 @@ noticing when background worry starts interfering with your ability to relax or 
 ## BHS
 **Tracks:** Hopelessness (pessimism about the future, loss of motivation)
 
-The strongest single predictor of suicidal thinking — important to track even when
+One of the strongest predictors of suicidal thinking — important to track even when
 scores are low. Hopelessness isn't just sadness; it's the belief that things won't
 get better.
 

@@ -41,9 +41,9 @@ Making room for difficult experiences rather than fighting them.
 You are the sky, not the weather. Experiences pass through you.
 
 **Prompts:**
-- "You've felt this before and it passed. What does the part of you that watches all this come and go notice?"
+- "There's a part of you that's aware of all this right now — the one doing the noticing. Can you sense that vantage point, the 'you' that's watching?"
 - "If you step back and just observe — not judge, not fix, just watch — what do you see?"
-- "These feelings are real, and they're also temporary. What remains constant underneath?"
+- "Thoughts and feelings move through you like weather. What's the sky they pass through — the part of you that stays constant and does the noticing?"
 
 ### 5. Values Clarification
 What matters to you, deep down? What kind of person do you want to be?
