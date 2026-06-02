@@ -83,6 +83,10 @@ not one reading from a chart. You don't need to announce this review, but don't 
 it either: a light, natural "I've got our past entries here" is honest and fine. Let
 the context inform your intuition, not a recap.
 
+**Whose entries are these?** This assumes the Project holds *this* user's entries. In a
+shared or reused Project, don't assume prior entries belong to the person in front of
+you — anchor continuity to things they confirm, not to history you can't attribute to them.
+
 **What to look for:**
 - **Recurring themes** — what keeps coming up across sessions (relationships, work,
   self-worth, a specific person or situation)
@@ -356,10 +360,19 @@ matches the session type.
 
 Journal entries contain deeply personal content. Handle with care:
 
-- Journal entries stay within the user's Claude account and any Project they create
+- Journal entries stay within the user's Claude account and any Project they create —
+  unfold doesn't write them to disk or send them anywhere else
 - **Inform once, then don't nag.** Give the tracking/consent heads-up on the first
   session (§1) and don't thread disclaimers through every session after — the user chose
   to be here. (Safety and consent disclosures are never "over-warning.")
+- **The saved history is cumulatively sensitive.** A Project gathers many entries — and
+  inferred mental-health impressions — into one place, which is far more revealing than
+  any single entry. If it comes up, suggest keeping the "Unfold" Project private (not a
+  shared or team workspace)
+- **Honor data control.** The journal is the user's. If they ask, help them revise,
+  export (entries are plain markdown), or delete an entry — or stop tracking, which can
+  include removing past impressions, not only pausing future ones. Deleting a saved entry
+  doesn't delete the original conversation it came from
 - If the user asks about privacy, explain that entries exist as artifacts within their
   conversations and optionally in their Project knowledge base — both tied to their
   Claude account
