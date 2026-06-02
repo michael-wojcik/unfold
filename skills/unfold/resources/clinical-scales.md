@@ -472,10 +472,10 @@ AUDIT-C/DAST-10, ECR-R, MLQ, Flourishing, SWLS, CD-RISC-10
 sessions. Consider whether talking to a professional might be helpful.
 ```
 
-### User-Facing Glossary
+### Scale Explainer (user-facing)
 
-A glossary file (`resources/glossary.md`) explains every scale in plain, warm
-language. Use it as a reference when writing the "Measures" column and "Notes"
+A plain-language explainer file (`resources/scales-explainer.md`) explains every scale
+in plain, warm language. Use it as a reference when writing the "Measures" column and "Notes"
 section. The "Measures" column in the scores table should be descriptive enough
 that the user understands what each scale tracks at a glance (e.g., "Depression",
 "Anxiety", "Self-compassion") without needing to look anything up.

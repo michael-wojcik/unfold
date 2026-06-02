@@ -307,7 +307,7 @@ as self-administered questionnaires — but a number inferred from a conversatio
 validated meaning. Treat it that way (see "Honesty about what these scores are," below).
 Read `resources/clinical-scales.md` for the full scale reference, scoring methodology,
 and escalation protocol. For plain-language explanations of each scale (used for the
-journal's "Measures" column), see `resources/glossary.md`.
+journal's "Measures" column), see `resources/scales-explainer.md`.
 
 Key rules:
 - **For guided reflections, score PHQ-9, GAD-7, and BHS** whenever there's sufficient
